@@ -1,0 +1,11 @@
+# OS/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+~$*
+
+# Local tool/cache folders
+.vscode/
+.idea/
+.codegraph/
+
