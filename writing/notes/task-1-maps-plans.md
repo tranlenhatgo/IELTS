@@ -11,6 +11,37 @@ Source: user-provided map / plan questions
 | Change over time | same place before/after | group by changed area/function |
 | Feature comparison | two layouts/rooms/places at the same time | group by shared and different features |
 
+## Intro Paraphrase
+
+Goal: identify the visual, the place/layout, and whether the task shows change or comparison.
+
+Change-over-time formula:
+
+`The plans compare the layout of [place] in [year 1] and after changes in [year 2].`
+
+Feature-comparison formula:
+
+`The plans compare the layout and facilities of [item A] and [item B].`
+
+Examples:
+
+- `The plans compare the layout of a museum in 1998 and after its redevelopment in 2008.`
+- `The plans compare the layout and facilities of student rooms designed for one and two people.`
+
+| Question Word | Safer Paraphrase |
+|---|---|
+| picture / plans | the plans / the diagrams |
+| show | compare / illustrate |
+| plan of | layout of |
+| after some changes | after its redevelopment / following several changes |
+| student room for two people | a two-person student room |
+
+Rules:
+
+- Do not describe changes in the introduction.
+- Use change language only if there are two time points.
+- Use comparison language if both layouts are current alternatives.
+
 ## Structure: Change Over Time
 
 | Paragraph | Job | Focus |
