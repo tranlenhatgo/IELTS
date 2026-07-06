@@ -37,6 +37,13 @@ Band 8 body paragraphs are not longer because they list more ideas. They are str
 | `Do you think this is a positive or negative development?` | Treat like opinion. Choose positive, negative, or mixed, then defend it consistently. |
 | Two-part question | Body 1 answers question 1. Body 2 answers question 2. Do not merge both answers randomly. |
 
+## Argumentative Essay Notes
+
+| Question Type | Dedicated Note |
+|---|---|
+| 100% agree / disagree | `task-2-agree-disagree-100-percent.md` |
+| Partial / 50-50 position | `task-2-agree-disagree-partial.md` |
+
 ## Introduction
 
 Good intro = topic paraphrase + position.

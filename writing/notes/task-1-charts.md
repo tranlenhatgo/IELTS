@@ -40,6 +40,42 @@ Rules:
 - Do not add trends in the introduction.
 - Use `compare` when there are multiple groups, years, or categories.
 
+## Survey Bar Charts
+
+Use this when the chart reports survey answers, not changes over time.
+
+Intro frame:
+
+`The bar charts illustrate the results of a survey conducted in [year] about [aspect 1] and [aspect 2].`
+
+Overview frame:
+
+`Overall, the data show a clear preference/tendency for [main pattern], while [minor pattern] was much less common.`
+
+Body split:
+
+| Body | Focus |
+|---|---|
+| Body 1 | First survey question / aspect. |
+| Body 2 | Second survey question / aspect. |
+
+Useful language:
+
+| Function | Pattern |
+|---|---|
+| Survey group | `respondents`; `responses`; `participants` |
+| Most common | `the dominant choice`; `the largest segment`; `the most popular option` |
+| Least common | `a marginal category`; `an uncommon response`; `the least selected option` |
+| Majority | `just over half`; `the majority of respondents`; `around four-fifths` |
+| Small groups | `less than 10% collectively`; `only a small minority`; `a negligible proportion` |
+| Preference | `showed a preference for`; `favoured`; `were more likely to` |
+
+Control:
+
+- Do not force trend language if there is no time period.
+- For survey charts, `people who chose X` is often clearer than `the figure for X`.
+- If two charts show different questions, describe one question per body.
+
 ## Body Logic
 
 Weak split:

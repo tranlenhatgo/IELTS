@@ -47,10 +47,16 @@ These mistakes happen when the sentence is written like spoken English.
 | One idea repeated in many ways | Wordy, no extra meaning. | One clean sentence per idea. |
 | Tense switching | Timeline becomes unclear. | Charts/maps: keep tense consistent with the visual. |
 | Countable noun errors | Grammar accuracy drops. | Check plural: `figures`, `countries`, `percentages`, `facilities`. |
+| Small numbers written as digits | Looks too note-like in normal prose. | Use words for small general numbers: `two charts`, `three countries`, `one reason`. |
 
 Quick rule:
 
 After writing a sentence, ask: `What is the subject? What is the verb? What is being compared?`
+
+Number control:
+
+- Use words for small general numbers: `one`, `two`, `three`.
+- Keep digits for exact data: `15%`, `2008`, `6 metres`, `Task 1`.
 
 ## Task 1 Data Language Control
 
