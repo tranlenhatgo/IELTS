@@ -43,6 +43,18 @@ Band 8 body paragraphs are not longer because they list more ideas. They are str
 |---|---|
 | 100% agree / disagree | `task-2-agree-disagree-100-percent.md` |
 | Partial / 50-50 position | `task-2-agree-disagree-partial.md` |
+| Discuss both views + opinion | `task-2-discuss-both-views.md` |
+| Reasons + positive/negative development | `task-2-reasons-positive-negative.md` |
+| Direct question / two-part question | `task-2-direct-questions.md` |
+
+## Forecast Type Map
+
+| Forecast Type | Questions |
+|---|---|
+| Agree / disagree | entertainment on handheld devices; space exploration spending; old buildings vs new infrastructure; advertising influence |
+| Discuss both views | school transport responsibility; international contact vs national identity; recycling taught at school or home |
+| Reasons + positive/negative | people moving places more often during life |
+| Direct question | what arts can teach that science and technology cannot |
 
 ## Introduction
 

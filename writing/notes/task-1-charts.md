@@ -76,6 +76,33 @@ Control:
 - For survey charts, `people who chose X` is often clearer than `the figure for X`.
 - If two charts show different questions, describe one question per body.
 
+## Chart Subtypes From Forecasts
+
+| Type | Best Body Split | Main Control |
+|---|---|---|
+| Dynamic line graph | rising / falling / stable lines | describe each line from start to end once |
+| Static grouped bar chart | highest/lowest activities or age groups | do not use trend language without time |
+| Dynamic pie charts | categories that rise / fall / stay stable | use `share`, not `number` |
+| Non-time line graph | high-emission vs low-emission groups | write `as [X] increases`, not `over the period` |
+
+Dynamic line graph frame:
+
+`Overall, [A] remained the highest figure despite [movement], while [B] increased and [C] declined. [D] stayed comparatively low throughout.`
+
+Static grouped bar chart frame:
+
+`Overall, [category] was the most popular activity among [group], whereas [category] attracted the lowest participation. Age differences were most visible in [activity].`
+
+Non-time line graph frame:
+
+`Overall, [A] produced the highest emissions across most speeds, while [B] was consistently the lowest. Several vehicle types reached their lowest point at around [speed] before rising again.`
+
+Controls:
+
+- Time graph: `from 1991 to 2001`, `over the period`, `by the final year`.
+- Static graph: `in 2018`, `among the three age groups`, `participation was highest`.
+- Speed/relationship graph: `at 60 kph`, `as speed increased`, `emissions fell and then rose`.
+
 ## Body Logic
 
 Weak split:
